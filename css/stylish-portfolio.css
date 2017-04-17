@@ -155,7 +155,7 @@ hr.small {
     position: relative;
     width: 100%;
     height: 100%;
-    background: url(../img/bg.jpg) no-repeat center center scroll;
+    background: url(http://i1.wp.com/www.cherryblossomfest.com/WordPress/wp-content/uploads/2014/07/CherryBlossoms.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -185,7 +185,7 @@ hr.small {
     width: 100%;
     height: 400px;
     color: #fff;
-    background: url(../img/callout.jpg) no-repeat center center scroll;
+    background: url(http://www.cherryblossomfest.org/images/frontpage-images/cherry-branch_1600x502.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -196,6 +196,11 @@ hr.small {
 
 .portfolio {
     padding: 50px 0;
+    background: url(https://cdn.cherryblossomwatch.com/wp-content/uploads/2017/03/cherry-blossoms-washington-dc-march-08-2017-01-2.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
 }
 
 .portfolio-item {
@@ -239,7 +244,7 @@ hr.small {
 /* Footer */
 
 footer {
-    padding: 100px 0;
+    padding: 25px 0;
 }
 
 #to-top {
