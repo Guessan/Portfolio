@@ -185,18 +185,13 @@ hr.small {
     width: 100%;
     height: 400px;
     color: #fff;
-    background: url(http://www.cherryblossomfest.org/images/frontpage-images/cherry-branch_1600x502.jpg) no-repeat center center scroll;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
 }
 
 /* Portfolio */
 
 .portfolio {
     padding: 50px 0;
-    background: url(https://cdn.cherryblossomwatch.com/wp-content/uploads/2017/03/cherry-blossoms-washington-dc-march-08-2017-01-2.jpg) no-repeat center center scroll;
+    background: url(http://cdn.cherryblossomwatch.com/wp-content/uploads/2017/03/cherry-blossoms-washington-dc-march-08-2017-01-2.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
